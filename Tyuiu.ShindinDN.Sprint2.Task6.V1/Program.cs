@@ -27,6 +27,7 @@ namespace Tyuiu.ShindinDN.Sprint2.Task6.V1
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.FindMonthDaysCount(values));
+            Console.ReadKey();
         }
     }
 }
